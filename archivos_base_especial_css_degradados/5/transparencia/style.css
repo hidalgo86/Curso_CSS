@@ -1,0 +1,5 @@
+body{
+	background: url('img/cielo.jpg'), white;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
